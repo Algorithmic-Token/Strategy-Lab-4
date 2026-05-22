@@ -13,7 +13,7 @@
 > López de Prado, M. (2018) — *Advances in Financial Machine Learning*, Chapter 17
 > [Wiley](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089)
 
-Experimental algorithm implementation accompanying the Strategy Lab #4 article published at [Algorithmic Token on Substack](https://algorithmictoken.substack.com).
+Experimental algorithm implementation accompanying the Strategy Lab #4 article published at [Algorithmic Token on Substack](https://algorithmictoken.substack.com/p/strategy-lab-4-does-regime-conditioning).
 
 ---
 
